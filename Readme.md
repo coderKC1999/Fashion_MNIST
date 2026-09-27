@@ -1,1 +1,3 @@
-"# Fashion_MNIST" >> README.md
+# FashinMNIST | CNN | Pytorch
+
+
